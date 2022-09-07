@@ -1,0 +1,28 @@
+* {
+    margen :  0 ;
+}
+
+. contenedor {
+    fondo : azul cadete;
+    ancho :  100 vw ;
+    altura :  100 vh ;
+    alineación de texto : centro;
+}
+
+pag {
+    tamaño de fuente : xx-grande;
+    relleno :  15 % ;
+}
+
+botón {
+    tamaño de fuente : xx-grande;
+    relleno :  0,75 cm ;
+}
+
+# yesBtn {
+    transformar :  traducir ( -100 % , 0 );
+}
+
+# noBtn {
+    posición : absoluta;
+}
